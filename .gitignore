@@ -2,3 +2,6 @@ build/
 dist/
 __pycache__/
 PasswordGen.spec
+icon.png
+main.spec
+password.cpython-314.pyc

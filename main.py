@@ -1,5 +1,6 @@
 from password import generate_password
 from password import clear
+from check import check_for_update
 
 length = input("Custom length (Enter for 16): ").strip()
 try:
