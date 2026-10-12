@@ -1,7 +1,7 @@
 import json
 import urllib.request
 
-VERSION = "1.0"
+VERSION = "1.0.0"
 
 def check_for_update():
     url = "https://api.github.com/repos/mixecpp/password-generator/releases/latest"
