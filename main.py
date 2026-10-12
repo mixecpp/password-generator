@@ -21,3 +21,5 @@ print("generated",amount,"passwords: ")
 for i in range(amount):
  custom_password = generate_password(length)
  print(custom_password)
+
+input("Press Enter to exit...")
